@@ -1,9 +1,5 @@
 ﻿using Godot;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
-[GlobalClass]
 public partial class DeviceInput : RefCounted
 {
     [Signal]
